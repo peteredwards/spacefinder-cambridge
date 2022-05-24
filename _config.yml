@@ -4,8 +4,8 @@ description: >-
   Map-driven application originally developed by
   the University of Cambridge
   https://spacefinder.lib.cam.ac.uk/
-baseurl: "/spacefinder-cambridge"
-url: "https://peteredwards.github.io"
+baseurl: "spacefinder-cambridge/"
+url: "https://peteredwards.github.io/"
 host: "localhost"
 photo_dir: "/assets/photos/"
 #google_maps_api_key: "AIzaSyB5KjIF7J9qrj1S23l0m1BWUT4Pk_6cOxA"
