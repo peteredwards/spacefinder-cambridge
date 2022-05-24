@@ -1,0 +1,87 @@
+{
+    "id": 59,
+    "title": "Music: Audio Room",
+    "slug": "music-audio-room",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect, Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "11 West Road, Cambridge, CB3 9DP",
+    "building": "Pendlebury Library of Music",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": false,
+    "url": "https://libguides.cam.ac.uk/c.php?g=307750&p=4886156",
+    "phone_number": "01223335182",
+    "twitter_screen_name": "MusiCB3t",
+    "facebook_url": "https://www.facebook.com/Penlib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "modern"
+    ],
+    "facilities": [
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "outdoor_seating",
+        "toilets",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "headphones",
+        "audio equipment",
+        "Wheelchair terminal for OPAC catalogue access"
+    ],
+    "floor": "Ground floor",
+    "image": "2.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10791\",\"52.20216\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

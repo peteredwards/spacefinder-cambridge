@@ -1,0 +1,91 @@
+{
+    "id": 67,
+    "title": "Criminology - The comfy chairs at the back",
+    "slug": "criminology-the-comfy-chairs-at-the-back",
+    "description": "The physical library space is currently closed for studying. The Library offers: Click & Collect, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Radzinowicz Library, Institute of Criminology, University of Cambridge, Sidgwick Avenue, Cambridge CB3 9DA",
+    "building": "Radzinowicz Library, Institute of Criminology",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "https://www.crim.cam.ac.uk/library/services",
+    "phone_number": "01223 335386",
+    "twitter_screen_name": "",
+    "facebook_url": "https://www.facebook.com/crimlib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "toilets",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "gender_neutral_toilets"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "no food",
+        "bottled water only",
+        "postgraduate",
+        "research",
+        "warm"
+    ],
+    "floor": "Ground floor",
+    "image": "4.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.110105\",\"52.201452\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

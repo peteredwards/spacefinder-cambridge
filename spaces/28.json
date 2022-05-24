@@ -1,0 +1,84 @@
+{
+    "id": 28,
+    "title": "Faculty of Law Cafe - Cambridge Blue",
+    "slug": "faculty-of-law-cafe-cambridge-blue",
+    "description": "Due to the implications of COVID-19, please check direct with the Faculty of Law as to current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "10 West Road, Cambridge, CB3 9DZ",
+    "building": "Squire Law Library",
+    "restricted": true,
+    "restriction": "Please check direct with the Faculty of Law as to current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/faculty-law-0",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "free_wifi",
+        "laptops_allowed",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "food and drink",
+        "cheap coffee"
+    ],
+    "floor": "Basement",
+    "image": "lawcafe1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10964\",\"52.20183\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

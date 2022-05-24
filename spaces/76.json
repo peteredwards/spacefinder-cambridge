@@ -1,0 +1,94 @@
+{
+    "id": 76,
+    "title": "Hot Numbers Coffee (Gwydir Street)",
+    "slug": "hot-numbers-coffee-gwydir-street",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "Dale's Brewery, Gwydir Street, Cambridge, CB1 2LJ \r\n",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": false,
+    "url": "http://hotnumberscoffee.co.uk/",
+    "phone_number": "01223 359966",
+    "twitter_screen_name": "hotnumbers",
+    "facebook_url": "https://www.facebook.com/HotNumbersCoffee",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Music playing",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "creative",
+        "ethically sourced",
+        "coffee",
+        "tea",
+        "independent",
+        "music",
+        "jazz",
+        "evening events"
+    ],
+    "floor": "Ground floor",
+    "image": "hot-numbers-coffee-Gwydir.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.13834\",\"52.2001\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "7:30",
+            "to": "22:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "7:30",
+            "to": "22:30"
+        },
+        "saturday": {
+            "open": true,
+            "from": "7:30",
+            "to": "18:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "8:00",
+            "to": "21:00"
+        }
+    }
+}

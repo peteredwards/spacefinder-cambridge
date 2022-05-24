@@ -1,0 +1,91 @@
+{
+    "id": 26,
+    "title": "ARC Cafe",
+    "slug": "arc-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the ARC Cafe direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "7 West Road, Cambridge, CB3 9DP",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the ARC Cafe direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/arc-cafe-alison-richard-building",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "food and drink",
+        "sidgwick site",
+        "hot meals",
+        "busy"
+    ],
+    "floor": "Ground floor",
+    "image": "arc_cafe.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10908\",\"52.20239\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "id": 43,
+    "title": "Le Patissier",
+    "slug": "le-patissier",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the company direct regarding their current access arrangements.",
+    "access": "Anyone (public)",
+    "space_type": "Café",
+    "address": "11 St Johns St, Cambridge CB2 1TW",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the company direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "",
+    "phone_number": "01223 568336",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Background chatter",
+    "atmosphere": [
+        "disciplined",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets"
+    ],
+    "work": [
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "coffee",
+        "cakes",
+        "people watching",
+        "tourists"
+    ],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.118237\",\"52.208051\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

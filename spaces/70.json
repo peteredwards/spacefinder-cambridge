@@ -1,0 +1,82 @@
+{
+    "id": 70,
+    "title": "Whipple Main Library, Levels 3 & 4",
+    "slug": "whipple-main-library-levels-3-4",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Click & Collect (collection Mon-Fri, 09:30-16:50), Scan & Deliver, Book Returns. Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Whipple Library\r\nDepartment of History and Philosophy of Science\r\nFree School Lane\r\nCambridge CB2 3RH",
+    "building": "Whipple Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "http://www.hps.cam.ac.uk/library/",
+    "phone_number": "01223 334547",
+    "twitter_screen_name": "hpslib",
+    "facebook_url": "https://www.facebook.com/pages/Whipple-Library-University-of-Cambridge/62966357372",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "disciplined",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "printers_copiers",
+        "toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "bottled water only"
+    ],
+    "floor": "Second and third floors",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.11937\",\"52.20292\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

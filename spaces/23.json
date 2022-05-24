@@ -1,0 +1,88 @@
+{
+    "id": 23,
+    "title": "Education Library - Lily Pad 1",
+    "slug": "education-library-lily-pad-1",
+    "description": "The physical Library is closed as a study space. The following services are available to members of the Faculty of Education via the Library's Moodle site: Essential Texts Click & Collect, (Mon-Fri, 09:00-17:00), virtual 1:1 appointments, Book Returns",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "184 Hills Road, Cambridge, CB2 8PQ",
+    "building": "Education Faculty Library",
+    "restricted": true,
+    "restriction": "Please check with the Education Faculty Library direct regarding current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.educ.cam.ac.uk/library/",
+    "phone_number": "01223 767700",
+    "twitter_screen_name": "edfaclib",
+    "facebook_url": "https://www.facebook.com/pages/Education-Faculty-Library-University-of-Cambridge/638858689457909?fref=ts",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "modern",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "work": [],
+    "tags": [
+        "cosy",
+        "bottled water only",
+        "no bags",
+        "subject experts",
+        "spacious work area"
+    ],
+    "floor": "",
+    "image": "Lily_Pad_1_-_1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.136944\",\"52.186667\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

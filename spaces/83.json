@@ -1,0 +1,93 @@
+{
+    "id": 83,
+    "title": "Christ’s Pieces",
+    "slug": "christs-pieces",
+    "description": "A Victorian park in the centre of town, Christ’s Pieces lies between the city centre and Grafton Centre. There are tennis courts at the north-west corner and in the south-east corner lies a bowling green. \r\n",
+    "access": "Anyone (public)",
+    "space_type": "Other",
+    "address": "Christ’s Pieces, Cambridge\r\n",
+    "building": "",
+    "restricted": false,
+    "restriction": "",
+    "disabled_access": true,
+    "url": "https://www.cambridge.gov.uk/parks/christs-pieces",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "outdoor_seating",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "open space",
+        "grass",
+        "trees",
+        "flowers",
+        "sports",
+        "christs"
+    ],
+    "floor": "Ground floor",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.125237\",\"52.20615\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        },
+        "sunday": {
+            "open": true,
+            "from": "0:00",
+            "to": "0:00"
+        }
+    }
+}

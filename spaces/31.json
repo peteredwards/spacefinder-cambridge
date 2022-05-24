@@ -1,0 +1,104 @@
+{
+    "id": 31,
+    "title": "Cambridge Judge Business School Information Centre - Ground Floor",
+    "slug": "cambridge-judge-business-school-information-centre-ground-floor",
+    "description": "Due to the implications of COVID-19, please check with the Judge Business School Information Centre direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
+    "building": "Cambridge Judge Business School Information Centre",
+    "restricted": true,
+    "restriction": "Please check with the Information Centre regarding their current arrangements.",
+    "disabled_access": true,
+    "url": "http://www.jbs.cam.ac.uk/infolib",
+    "phone_number": "01223 339599",
+    "twitter_screen_name": "CJBSInfoLib",
+    "facebook_url": "https://www.facebook.com/pages/Cambridge-Judge-Business-School-Information-and-Library-Services/25664826431",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "relaxed",
+        "modern",
+        "inspiring",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "printers_copiers",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "quiet",
+        "warm",
+        "friendly",
+        "modern",
+        "light",
+        "silent group work",
+        "sofa",
+        "toilets",
+        "disabled access",
+        "wifi",
+        "Bloomberg",
+        "computing facilities",
+        "printing facilities",
+        "food and drink allowed"
+    ],
+    "floor": "Ground floor",
+    "image": "CJBS_Ground_Floor.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:45",
+            "to": "18:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

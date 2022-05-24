@@ -1,0 +1,93 @@
+{
+    "id": 55,
+    "title": "Philosophy - Reading Room",
+    "slug": "philosophy-reading-room",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 15:00-16:00), Book Returns. Follow the Website link at the bottom of this listing for more details and updates. ",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Raised Faculty Building\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
+    "building": "Casimir Lewy Library",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": true,
+    "url": "http://www.phil.cam.ac.uk/library",
+    "phone_number": "01223 762939",
+    "twitter_screen_name": "lewylib",
+    "facebook_url": "https://www.facebook.com/Lewylib",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "refreshments",
+        "break",
+        "wheelchair_accessible",
+        "blue_badge_parking",
+        "accessible_toilets",
+        "individual_study_space",
+        "gender_neutral_toilets",
+        "bike_racks",
+        "smoking_area"
+    ],
+    "work": [
+        "private",
+        "close"
+    ],
+    "tags": [
+        "bottled water only",
+        "light",
+        "small",
+        "Fetching service available"
+    ],
+    "floor": "Second floor",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10917\",\"52.20109\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

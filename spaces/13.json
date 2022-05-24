@@ -1,0 +1,84 @@
+{
+    "id": 13,
+    "title": "Cambridge Public Library - 3rd Floor",
+    "slug": "cambridge-public-library-3rd-floor",
+    "description": "The Cambridge public library is currently open. They also offer a Select & Collect service. Please follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "7 Lion Yard, Grand Arcade, Cambridge, CB2 3QD",
+    "building": "Cambridge Central Public Library",
+    "restricted": false,
+    "restriction": "Study space currently closed",
+    "disabled_access": true,
+    "url": "https://www.cambridgeshire.gov.uk/directory/listings/Cambridge-Central-Library",
+    "phone_number": "0345 045 5225",
+    "twitter_screen_name": "cambslib",
+    "facebook_url": "https://www.facebook.com/pages/Central-Library-Cambridge/106156113195",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "modern"
+    ],
+    "facilities": [
+        "large_desks",
+        "free_wifi",
+        "computers",
+        "laptops_allowed",
+        "signal",
+        "printers_copiers",
+        "toilets"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "nooks",
+        "bottled water only"
+    ],
+    "floor": "Second floor",
+    "image": "Central_Library_3rd_floor.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.120511\",\"52.204396\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:00",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "10:00",
+            "to": "14:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

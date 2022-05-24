@@ -1,0 +1,84 @@
+{
+    "id": 33,
+    "title": "Maths Cafe",
+    "slug": "maths-cafe",
+    "description": "Due to the implications of COVID-19 Spacefinder is currently being used primarily to provide information on library spaces in Cambridge. Filter search by 'I want to work in a library' to isolate these spaces. The information below is likely to be inaccurate, please contact the Maths Cafe direct regarding their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "Wilberforce Road, Cambridge CB3 0WA",
+    "building": "",
+    "restricted": true,
+    "restriction": "Please contact the Maths Cafe direct regarding their current access arrangements.",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/centre-mathematical-sciences",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "cosy",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "signal",
+        "toilets"
+    ],
+    "work": [
+        "close",
+        "group"
+    ],
+    "tags": [],
+    "floor": "",
+    "image": "image.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.101892\",\"52.210104\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:00",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

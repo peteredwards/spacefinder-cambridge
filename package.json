@@ -1,0 +1,16 @@
+{
+  "name": "spacefinder-ui",
+  "version": "1.0.0",
+  "description": "Spacefinder UI",
+  "main": "index.js",
+  "scripts": {
+    "concat": "node _scripts/concat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-uol:peteredwards/spacefinder-cambridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

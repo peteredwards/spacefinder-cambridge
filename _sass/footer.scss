@@ -1,0 +1,34 @@
+/**
+ * Footer bar styles
+ */
+ #footer-bar {
+    background: $footerbg;
+    color: $footercolor;
+    ul {
+        display: flex;
+        padding:0;
+        margin:0;
+        li {
+            margin-right: .5rem;
+            padding-left: .5rem;
+            list-style: none;
+            border-left: 1px solid $footercolor;
+            &:last-child {
+                margin-right: 0;
+                margin-left: auto;
+                border-left: none;
+            }
+            &:first-child {
+                border-left: none;
+                padding-left: 0;
+            }
+            button {
+                color: $footercolor;
+                background: $footerbg;
+                border: none;
+                text-decoration: none;
+                cursor: pointer;
+            }
+        }
+    }
+}

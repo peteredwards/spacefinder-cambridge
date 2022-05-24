@@ -1,0 +1,83 @@
+{
+    "id": 77,
+    "title": "Psychology - traditional study rooms",
+    "slug": "psychology-traditional-study-rooms",
+    "description": "The physical Library space is currently closed for studying. Services available from the Library include: Scan & Deliver, Click & Collect (collection Mon-Fri, 09:00-11:30), Book returns, 1:1 online support. Follow the website link at the bottom of this listing for more details and updates.",
+    "access": "Members of the University",
+    "space_type": "Library space",
+    "address": "Department of Psychology \r\nDowning Street \r\nCambridge \r\nCB2 3EB",
+    "building": "Department of Psychology Library",
+    "restricted": true,
+    "restriction": "Access through a controlled reception area.",
+    "disabled_access": false,
+    "url": "https://libguides.cam.ac.uk/psychology-guide/libraryservicescovid",
+    "phone_number": "01223 333554",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "cosy",
+        "friendly"
+    ],
+    "facilities": [
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break",
+        "bike_racks"
+    ],
+    "work": [
+        "close"
+    ],
+    "tags": [
+        "drinks allowed",
+        "often busy in term"
+    ],
+    "floor": "First floor",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12301\",\"52.20205\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

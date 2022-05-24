@@ -1,0 +1,90 @@
+{
+    "id": 4,
+    "title": "UL - Reading Room",
+    "slug": "ul-reading-room",
+    "description": "Book a study space via the link below. A Book a Visit service is also available via the UL website if you need to consult items that are not borrowable (normally ordered to the UL's West Room), reference works from around the UL building and non-print legal deposit. The Library also offers: Click & Collect, Scan & Deliver, Ask a Curator (special collections expertise). Follow the Website link at the bottom of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Cambridge University Library, West Road, Cambridge, CB3 9DR",
+    "building": "University Library",
+    "restricted": true,
+    "restriction": "Booking required",
+    "disabled_access": true,
+    "url": "https://www.lib.cam.ac.uk/using-library",
+    "phone_number": "1223 333016",
+    "twitter_screen_name": "theUL",
+    "facebook_url": "https://www.facebook.com/cambridgeuniversitylibrary",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "https://www.lib.cam.ac.uk/using-library/person-services/book-study-space",
+    "noise": "Whispers",
+    "atmosphere": [
+        "disciplined",
+        "historic",
+        "inspiring"
+    ],
+    "facilities": [
+        "daylight",
+        "large_desks",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends"
+    ],
+    "tags": [
+        "no large bags",
+        "reading lamps",
+        "standing workspace",
+        "e-legal deposit",
+        "subject experts",
+        "warm"
+    ],
+    "floor": "First floor",
+    "image": "PH-LIBRARY-MAP-READING-ROOM-000-00006.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.10824\",\"52.20507\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "thursday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "friday": {
+            "open": true,
+            "from": "9:30",
+            "to": "16:00"
+        },
+        "saturday": {
+            "open": true,
+            "from": "11:15",
+            "to": "15:00"
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

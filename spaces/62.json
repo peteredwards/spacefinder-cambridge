@@ -1,0 +1,93 @@
+{
+    "id": 62,
+    "title": "Astronomy: Library Room A",
+    "slug": "astronomy-library-room-a",
+    "description": "Office hours Thursday 12:30 - 16:30. Outside of office hours members of the Institute of Astronomy only. Please check Astronomy Library News webpage (linked under Website at the bottom of this listing) for updates. User not studying at the Institute of Astronomy should enquire using the email address below before visiting.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Institute of Astronomy\r\nMadingley Road\r\nCambridge\r\nCB3 0HA",
+    "building": "Institute of Astronomy Library",
+    "restricted": true,
+    "restriction": "Steps at front of building.  Narrow corridors.",
+    "disabled_access": false,
+    "url": "https://www.ast.cam.ac.uk/library/news",
+    "phone_number": "01223 337537",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Whispers",
+    "atmosphere": [
+        "historic",
+        "cosy"
+    ],
+    "facilities": [
+        "daylight",
+        "views",
+        "large_desks",
+        "laptops_allowed",
+        "sockets",
+        "bookable",
+        "toilets",
+        "refreshments",
+        "break",
+        "gender_neutral_toilets",
+        "bike_racks"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "astronomy",
+        "cosmology",
+        "interview location",
+        "interviews",
+        "filming",
+        "Chandrasekhar",
+        "Dewhirst"
+    ],
+    "floor": "Ground floor",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.09533\",\"52.21458\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": true,
+            "from": "12:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

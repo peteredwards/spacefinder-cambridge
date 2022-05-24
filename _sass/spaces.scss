@@ -1,0 +1,186 @@
+#listcontrols {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border-bottom: 1px solid $filterbg;
+    p {
+        flex: 1;
+        margin: 1px 3px;
+        padding:.5rem;
+    }
+}
+#listfilters {
+    padding: .5rem;
+    border-bottom: 1px solid $filterbg;
+    .noresults {
+        padding: .5em 0 .5em 1em;
+        position:relative;
+        &:before {
+            content: "!";
+            color: red;
+            position:absolute;
+            top:.5em;
+            font-weight: bold;
+            left:0;
+        }
+    }
+}
+#listcontent {
+    .list-space {
+        padding: 1em .5rem;
+        &:after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        &:hover {
+
+        }
+        &.hidden {
+            display:none;
+        }
+        &.active {
+            background: $activespacebg;
+            .space-details {
+                .space-image {
+                    width: 100%;
+                    height: 250px;
+                    float: none;
+                    margin: 0 0 1em 0;
+                }
+            }
+            .space-title {
+                cursor: default;
+            }
+        }
+        .space-details {
+            .space-image {
+                width: 50%;
+                height: 150px;
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                float: left;
+                margin: 0 1em 1em 0;
+            }
+        }
+        border-bottom: 1px solid $separatorcolor;
+        a {
+            &.button {
+                display: inline-block;
+                min-width: 3em;
+                padding: .5em;
+                margin: 1em 0;
+                color: $buttoncolor;
+                background: $buttonbg;
+                &:hover, &:visited, &:active {
+                    color: $buttoncolor-active;
+                    background: $buttonbg-active;
+                }
+    
+            }
+        }
+        h2 {
+            font-weight: normal;
+            padding-bottom: .3rem;
+            display: flex;
+            a {
+                flex-grow: 1;
+            }
+            &:focus {
+                outline: 1px dotted $spacesubheadborder;
+            }
+        }
+        p.info {
+            font-weight: normal;
+            font-size: 1.2rem;
+            padding-bottom: .3rem;
+            display:flex;
+            flex-direction: row;
+            align-items: baseline;
+            gap: 1em;
+            > span {
+                flex: 1;
+                &.space-type {
+                    color: $highlighttextcolor;
+                }
+                &.address {
+                    min-width: 60%;
+                    color: $lighttextcolor;
+                    text-align: right;
+                    font-size: .9rem;
+                    .address-floor,
+                    .address-building,
+                    .address-location {
+                        white-space: nowrap;
+                    }
+                }
+                &.distance {
+                    display: none;
+                    color: $lighttextcolor;
+                    text-align: center;
+                    font-size: .9rem;
+                }
+            }
+        }
+        h3 {
+            font-weight: normal;
+            padding-bottom: .5rem 0;
+            background: $spacesubheadbg;
+            margin: .5rem 0;
+            border-top: 1px dotted $spacesubheadborder;
+            border-bottom: 1px dotted $spacesubheadborder;
+        }
+        ul.bulleticons {
+            list-style: none;
+            padding:0;
+            li {
+                position: relative;
+                padding: .1em 0 .1em 2.5em;
+                &:before {
+                    position: absolute;
+                    top: .25em;
+                    left: 0.5em;
+                }
+                &.icon-link {
+                    word-break: break-all;
+                }
+            }
+        }
+        &[data-openclass="open"] {
+            [data-openmsg-id],
+            li.today {
+                color: $opencolor;
+            }
+        }
+        &[data-openclass="opening-later"] {
+            [data-openmsg-id],
+            li.today {
+                color: $openingcolor;
+            }
+        }
+        &[data-openclass="open"] {
+            [data-openmsg-id],
+            li.today {
+                color: $closedcolor;
+            }
+        }
+        ul.opening-times {
+            list-style: none;
+            padding:0;
+            li {
+                display:flex;
+                span.dayname {
+                    font-weight: bold;
+                    width:25%;
+                    border-bottom: 1px solid $spacesubheadborder;
+                }
+                span.opening {
+                    width:25%;
+                    text-align:right;
+                    border-bottom: 1px solid $spacesubheadborder;
+                }
+            }
+        }
+    }
+}

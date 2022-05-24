@@ -1,0 +1,19 @@
+<footer id="footer-bar">
+    <nav>
+        <ul>
+            <li><button type="button" class="modal-trigger" data-dialoghash="privacy" data-dialogid="privacy-page">Privacy</button></li>
+            <li><button type="button" class="modal-trigger" data-dialoghash="accessibility" data-dialogid="accessibility-page">Accessibility</button></li>
+            <li><button type="button" class="modal-trigger" data-dialoghash="terms" data-dialogid="terms-page">Terms<span class="hide-small"> &amp; Conditions</span></button></li>
+            <li>&copy; {{ "now" | date: "%Y" }}<span class="hide-med"> University of Leeds</span></li>
+        </ul>
+    </nav>
+</footer>
+
+{% include modal-includes.html %}
+
+{% include custom-foot.html %}
+
+<script src="{{ "/assets/scripts/bundle.js" | absolute_url }}"></script>
+{%- if site.google_maps_api_key -%}
+{%- include google-maps.html -%}
+{%- endif -%}

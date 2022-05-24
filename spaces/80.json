@@ -1,0 +1,83 @@
+{
+    "id": 80,
+    "title": "MML - Beit Library",
+    "slug": "mml-beit-library",
+    "description": "The physical library is currently closed as a study space. Services available include: Click & Collect, Book Returns. Follow the Website link at the end of this listing for more details and updates.",
+    "access": "Anyone (public)",
+    "space_type": "Library space",
+    "address": "Modern & Medieval Languages Library\r\nUniversity of Cambridge\r\nSidgwick Avenue\r\nCambridge\r\nCB3 9DA",
+    "building": "Modern & Medieval Languages Library",
+    "restricted": true,
+    "restriction": "Study space currently closed",
+    "disabled_access": false,
+    "url": "http://www.mml.cam.ac.uk/library",
+    "phone_number": "01223 335041",
+    "twitter_screen_name": "mmllib",
+    "facebook_url": "https://www.facebook.com/pages/MML-Library-University-of-Cambridge/133201930056884?ref=sgm",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Strictly silent",
+    "atmosphere": [
+        "disciplined",
+        "historic"
+    ],
+    "facilities": [
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private"
+    ],
+    "tags": [
+        "bottled water only",
+        "no food",
+        "silent",
+        "low light"
+    ],
+    "floor": "Third floor",
+    "image": "1.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.109627\",\"52.201439\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "tuesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "wednesday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "thursday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "friday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}

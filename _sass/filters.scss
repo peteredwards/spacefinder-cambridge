@@ -1,0 +1,82 @@
+/* Filters panel */
+#filters {
+    .top-controls,
+    .panel-content {
+        padding:.2em;
+    }
+    background: $filterbg;
+    color: $filtercolor;
+    .searchbuttons {
+        display: flex;
+        justify-content: space-between;
+        .btn {
+            width: 48%;
+        }
+    }
+    input[type=search] {
+        width: 100%;
+        padding: .5rem;
+        border: 1px solid $filterbuttonborder-focus;
+        border-radius: 3px;
+    }
+    fieldset.filter-options {
+        border: 0;
+        padding: 0;
+        legend {
+            width: 100%;
+            padding: 0;
+            button {
+                width: 100%;
+                padding: .8rem;
+                text-transform: uppercase;
+                text-align: left;
+                border: none;
+            }
+        }
+        ul {
+            padding: 0;
+            margin:0;
+            li.filter-option {
+                position: relative;
+                margin: 0;
+                padding:.8rem .5rem;
+                list-style: none;
+                background: $filterlabelbg;
+                color: $filterlabelcolor;
+                margin-bottom: 2px;
+                border: 1px solid $filterbuttonborder;
+                &.focus {
+                    border: 1px solid $filterbuttonborder-focus;
+                    border-radius: 3px;
+                }
+                label {
+                    user-select: none;
+                    cursor: pointer;
+                    padding-left: 2.3rem;
+                    display: block;
+                    z-index: 1;
+                }
+                span {
+                    position: absolute;
+                    opacity: 0.2;
+                    font-size: 1rem;
+                    width: 1.8rem;
+                    text-align: center;
+                    z-index: 0;				
+                }
+                input[type=checkbox] {
+                    position: absolute;
+                    clip: rect(1px, 1px, 1px, 1px);
+                    padding: 0;
+                    border: 0;
+                    height: 1px;
+                    width: 1px;
+                    overflow: hidden;
+                    &:checked~span {
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+}

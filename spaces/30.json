@@ -1,0 +1,101 @@
+{
+    "id": 30,
+    "title": "Cambridge Judge Business School Cafe",
+    "slug": "cambridge-judge-business-school-cafe",
+    "description": "Due to the implications of COVID-19, please check with the Judge Business School direct as to their current access arrangements.",
+    "access": "Members of the University",
+    "space_type": "Café",
+    "address": "Cambridge Judge Business School, Trumpington Street, Cambridge, CB2 1AG",
+    "building": "Cambridge Judge Business School Information Centre",
+    "restricted": false,
+    "restriction": "Please check with the Judge Business School for current arrangements",
+    "disabled_access": true,
+    "url": "http://www.unicen.cam.ac.uk/food-and-drink/places-eat/out-university-centre/cafe-judge-business-school",
+    "phone_number": "",
+    "twitter_screen_name": "",
+    "facebook_url": "",
+    "campusmap_url": "",
+    "campusmap_ref": "",
+    "booking_url": "",
+    "noise": "Animated discussion",
+    "atmosphere": [
+        "relaxed",
+        "modern",
+        "inspiring",
+        "social",
+        "friendly"
+    ],
+    "facilities": [
+        "food_drink",
+        "daylight",
+        "views",
+        "free_wifi",
+        "laptops_allowed",
+        "sockets",
+        "signal",
+        "toilets",
+        "refreshments",
+        "break"
+    ],
+    "work": [
+        "private",
+        "close",
+        "friends",
+        "group"
+    ],
+    "tags": [
+        "food and drink",
+        "noise",
+        "busy",
+        "coffee",
+        "snacks",
+        "light",
+        "group work",
+        "comfy seating",
+        "sofas",
+        "toilets",
+        "disabled access",
+        "modern",
+        "wifi"
+    ],
+    "floor": "First floor",
+    "image": "Common_Room.jpg",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.12171\",\"52.19998\"]}",
+    "opening_hours": {
+        "monday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "tuesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "wednesday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "thursday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "friday": {
+            "open": true,
+            "from": "8:30",
+            "to": "16:30"
+        },
+        "saturday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        },
+        "sunday": {
+            "open": false,
+            "from": "",
+            "to": ""
+        }
+    }
+}
