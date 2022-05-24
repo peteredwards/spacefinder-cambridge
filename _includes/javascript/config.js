@@ -13,7 +13,7 @@ const spacefinder = {
     spacesLoaded: false,
     mapBounds: null,
     spacesurl: '{{ site.url }}{{ site.baseurl }}/spaces.json',
-    imageBaseURL: '{{ site.url }}{{ site.baseurl }}',
+    imageBaseURL: '{{ site.url }}{{ site.baseurl }}assets/photos/',
     spaces: [],
     filterEvent: new Event('viewfilter', {
         bubbles: true,
