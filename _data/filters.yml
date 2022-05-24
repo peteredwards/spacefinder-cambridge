@@ -10,18 +10,18 @@
   exclusive: false
   open: false
   options:
+    - key: "bar"
+      label: "Bar"
     - key: "caf"
       label: "Café"
-    - key: "generalseatingarea"
-      label: "General Seating Area"
-    - key: "itcluster"
-      label: "IT Cluster"
     - key: "library"
-      label: "Library"
-    - key: "outdoorseatingarea"
-      label: "Outdoor Seating Area"
-    - key: "seminarroom"
-      label: "Seminar room"
+      label: "Library space"
+    - key: "meetingroom"
+      label: "Meeting room"
+    - key: "other"
+      label: "Other"
+    - key: "restaurant"
+      label: "Restaurant"
 - key: "work"
   label: "I want to work"
   exclusive: true
