@@ -1,7 +1,7 @@
 const spacefinder = {
     map: null,
-    currentLoc: {'lat': 53.806529, 'lng': -1.555291},
-    personLoc: {'lat': 53.806529, 'lng': -1.555291},
+    currentLoc: {'lat': 52.205575, 'lng': 0.121682},
+    personLoc: {'lat': 52.205575, 'lng': 0.121682},
     personMarker: null,
     personWatcher: false,
     geoActive: false,
@@ -12,8 +12,8 @@ const spacefinder = {
     mapLoaded: false,
     spacesLoaded: false,
     mapBounds: null,
-    spacesurl: '{{ site.url }}/spaces.json',
-    imageBaseURL: '{{ site.url }}',
+    spacesurl: '{{ site.url }}{{ site.baseurl }}/spaces.json',
+    imageBaseURL: '{{ site.url }}{{ site.baseurl }}',
     spaces: [],
     filterEvent: new Event('viewfilter', {
         bubbles: true,
