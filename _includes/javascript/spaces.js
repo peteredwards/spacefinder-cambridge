@@ -68,6 +68,7 @@ function applyFilters() {
             el.classList.remove('hidden');
         });
     }
+    deselectSpaces();
     document.dispatchEvent( new Event( 'filtersapplied' ) );
 }
 
@@ -207,7 +208,9 @@ function selectSpace( spaceid, source ) {
 
 /**
  * Deselects a space in the list, an optionally scrolls the list to the top
+ * and recentres the map.
  * @param {boolean} scrollReset 
+ * @param {boolean} mapReset 
  */
 function deselectSpaces( scrollReset ) {
     if ( spacefinder.infoWindow ) {
@@ -222,6 +225,10 @@ function deselectSpaces( scrollReset ) {
     if ( scrollReset ) {
         document.getElementById('listcontainer').scrollTop = 0;
     }
+    if ( mapReset ) {
+        document.dispatchEvent( 'resetmap' );
+    }
+
 }
 
 /**
