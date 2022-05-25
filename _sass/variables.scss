@@ -77,12 +77,18 @@ $color-alert--error: #d4351c;
 $color-alert--warning: #e76f16;$closebutton-active: $color-white;
 $color-alert--info: #1993bd;
 
+/* Cambridge */
+$cam-brand: #106470;
+$cam-brand--dark: #06363d;
+$cam-highlight: #f3f3f3;
+
 /* general colors */
 $separatorcolor: $color-grey--medium;
 
+
 /* top navigation bar */
-$topbarbg: $color-black;
-$topbarbgactive: $color-black--dark;
+$topbarbg: $cam-brand;
+$topbarbgactive: $cam-brand--dark;
 $topbarcolor: $color-white;
 
 /* footer bar */
@@ -90,7 +96,7 @@ $footerbg: $color-black;
 $footercolor: $color-white;
 
 /* filters panel */
-$filterbg: $color-grey--light;
+$filterbg: $cam-highlight;
 $filtercolor: $color-black;
 $filterlabelbg: $color-white;
 $filterlabelcolor: $color-black;
@@ -115,28 +121,28 @@ $geobuttonbg-hover: $filterbuttonbg-hover;
 $geobuttoncolor-disabled: $filterbuttoncolor-disabled;
 $geobuttonbg-disabled: $filterbuttonbg-disabled;
 $geobuttoncolor-active: $color-white;
-$geobuttonbg-active: $color-blue;
+$geobuttonbg-active: $cam-brand;
 
 /* List panel */
 $lighttextcolor: $color-font--light;
-$highlighttextcolor: $color-blue;
-$highlighttextcoloralt: $color-brand;
+$highlighttextcolor: $cam-brand;
+$highlighttextcoloralt: $cam-brand--dark;
 
 /* space list */
-$activespacebg: $color-white--dark;
-$spacesubheadbg: $color-cream--light;
-$spacesubheadborder: $color-grey--medium;
+$activespacebg: $cam-highlight;
+$spacesubheadbg: darken($cam-highlight,5%);
+$spacesubheadborder: darken($cam-highlight,10%);
 
 /* links */
-$linkcolor: $color-link;
-$linkcolor-active: $color-link--active;
-$linkcolor-visited: $color-link--visited;
-$linkcolor-hover: $color-link--hover;
+$linkcolor: $cam-brand;
+$linkcolor-active: $cam-brand--dark;
+$linkcolor-visited: $cam-brand;
+$linkcolor-hover: $cam-brand--dark;
 
 /* opening times */
-$opencolor: $color-brand-2--dark;
-$closedcolor: $color-brand--dark;
-$openingcolor: $color-blue;
+$opencolor: $cam-brand;
+$closedcolor: $cam-brand--dark;
+$openingcolor: $cam-brand--dark;
 
 /* modal */
 $modalbg: $color-white;
