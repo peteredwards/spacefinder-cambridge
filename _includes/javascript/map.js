@@ -44,8 +44,8 @@ function maybeSetupMap() {
                     optimized: false,
                     icon: {
                         path: google.maps.SymbolPath.CIRCLE,//'M0-30.5c-5.7,0-10.2,4.6-10.2,10.2C-10.2-14.6,0,0,0,0s10.2-14.6,10.2-20.2C10.2-25.9,5.7-30.5,0-30.5z M0-17.7c-1.6,0-3-1.3-3-3s1.3-3,3-3s3,1.3,3,3S1.6-17.7,0-17.7z',
-                        fillColor: "#c70000",
-                        strokeColor: "#910000",
+                        fillColor: "#106470",
+                        strokeColor: "#06363d",
                         fillOpacity: 1,
                         scale: 8,
                         strokeWeight: 4

@@ -43,7 +43,7 @@
         "homemade cakes"
     ],
     "floor": "",
-    "image": ".jpg",
+    "image": "black-cat-cafe.jpg",
     "location": "{\"type\":\"Point\",\"coordinates\":[\"0.143246\",\"52.197967\"]}",
     "opening_hours": {
         "monday": {
