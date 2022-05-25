@@ -55,7 +55,7 @@
     ],
     "floor": "Ground floor",
     "image": "",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"-74.005941\",\"40.712784\"]}",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.13296617345654338\",\"52.21605571329303\"]}",
     "opening_hours": {
         "monday": {
             "open": true,

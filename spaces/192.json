@@ -40,7 +40,7 @@
     ],
     "floor": "",
     "image": "47082_5_Blends_4.jpg",
-    "location": "{\"type\":\"Point\",\"coordinates\":[\"52.201238\",\"52.201238\"]}",
+    "location": "{\"type\":\"Point\",\"coordinates\":[\"0.1346748687149885\",\"52.20095906827237\"]}",
     "opening_hours": {
         "monday": {
             "open": true,
